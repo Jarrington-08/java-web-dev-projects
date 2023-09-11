@@ -17,7 +17,7 @@ class CarTest {
 //    @Test
 //    public void emptyTest() {
 //        assertEquals(10,10,.001);
-    }
+//    }
     //TODO: constructor sets gasTankLevel properly
 //    @Test
 //    public void testInitialGasTank() {
